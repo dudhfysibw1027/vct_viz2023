@@ -1,0 +1,59 @@
+.bar-rect{
+	fill: steelblue
+}
+text{
+  font-family: sans-serif;
+}
+.tick text{
+  font-size: 1.1em;
+	fill: #635F5D;
+}
+
+.tick line{
+	stroke: #C0C0BB;
+}
+
+.xAxis-label{
+	font-size: 2em;
+	fill: #8E8883;
+}
+
+.title{
+	font-size: 3.3em;
+	fill: #635F5D;
+}
+.title2{
+	font-size: 2.3em;
+	fill: #635F5D;
+}
+#menus {
+  text-align: center;
+}
+#bar-menu select {
+  font-size: 1.5rem;
+}
+
+#menus select option {
+  font-size: 1rem;
+}
+#menus select {
+  font-size: 1.5rem;
+}
+
+#bar-menu select option {
+  font-size: 1rem;
+}
+.axis-label{
+	font-size: 2em;
+	fill: #8E8883;
+}
+
+.tooltip {
+  position: absolute;
+  border: solid;
+  pointer-events: none;
+  background-color: white;
+  border-width: 1px;
+  border-radius: 5px;
+  white-space: nowarp;
+}
